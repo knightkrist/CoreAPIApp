@@ -1,0 +1,14 @@
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\bin\Debug\netcoreapp2.1\CoreAPIApp.deps.json
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\bin\Debug\netcoreapp2.1\CoreAPIApp.runtimeconfig.json
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\bin\Debug\netcoreapp2.1\CoreAPIApp.runtimeconfig.dev.json
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\bin\Debug\netcoreapp2.1\CoreAPIApp.dll
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.1\CoreAPIApp.csprojAssemblyReference.cache
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.1\CoreAPIApp.csproj.CoreCompileInputs.cache
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.1\CoreAPIApp.RazorAssemblyInfo.cache
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.1\CoreAPIApp.RazorAssemblyInfo.cs
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.1\CoreAPIApp.AssemblyInfoInputs.cache
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.1\CoreAPIApp.AssemblyInfo.cs
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.1\CoreAPIApp.RazorTargetAssemblyInfo.cache
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\bin\Debug\netcoreapp2.1\CoreAPIApp.pdb
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.1\CoreAPIApp.dll
+C:\Users\KNIGHTPC\Documents\Visual Studio 2017\Projects\project7\CoreAPIApp\CoreAPIApp\obj\Debug\netcoreapp2.1\CoreAPIApp.pdb
